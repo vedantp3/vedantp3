@@ -20,7 +20,7 @@
  
  <a href="https://linktr.ee/shumbul">
   <kbd>
-  <img align="centre" alt="shumbul's LinkTree" width="22px" src="https://api.blog.production.linktr.ee/wp-content/uploads/2022/06/Avatar-Symbol-Canopy.png" />
+  <img align="centre" alt="shumbul's LinkTree" width="22px" height="22px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linktree-logo-icon.svg" />
 </a>
    
 <a href="https://linkedin.com/in/shumbul">
