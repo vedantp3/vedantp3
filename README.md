@@ -30,7 +30,7 @@
 <img align="centre" alt="shumbul's Twitter" width="22px" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" />
 </a>
  
-<a href="https://t.me/ShumbulArifa">
+<a href="https://t.me/vedantpatil2">
   <kbd>
   <img align="centre" alt="shumbul's Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png" />
 </a>
