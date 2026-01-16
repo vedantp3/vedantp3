@@ -28,7 +28,7 @@
   <img align="centre" alt="shumbul's LinkdeIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
   
- <a href="https://www.instagram.com/shumbul.arifa/">
+ <a href="https://www.instagram.com/thevedantpatil_/">
   <kbd>
   <img align="centre" alt="shumbul's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />
 </a>
