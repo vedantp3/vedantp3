@@ -4,7 +4,7 @@
 
 ###### Glad to see you here :heart:
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantp3&label=Views&color=blue&style=plastic" alt="shumbul" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantp3&label=Views&color=blue&style=plastic" alt="Vednat" /> </p>
 
 
 
@@ -21,11 +21,6 @@
   <img align="centre" alt="shumbul's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />
 </a>
 
-  
-<a href="https://twitter.com/ShumbulArifa">
-<kbd>
-<img align="centre" alt="shumbul's Twitter" width="22px" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" />
-</a>
  
 <a href="https://t.me/vedantpatil2">
   <kbd>
@@ -43,9 +38,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Let's+Connect)](https://git.io/typing-svg)
 
 - 🏢 I am a Software Engineer at Microsoft
-- 🏫 2022 B.Tech. graduate from NIT Karnataka
-- 💻 Former SDE Intern at Qualcomm, India
-- 🙋‍ More about me: Visit my [website](https://shumbul.github.io/)
-- 📹 Subscribe on YouTube [Shumbul](http://yt.openinapp.co/shumbul)
-- 🖇 Follow me on [LinkedIn](https://linkedin.com/in/shumbul)
-- 👯 Pronouns: She/Her
+- 🏫 2026 B.Tech. graduate from Vellore Institute Of Technology, Vellore
+- 🙋‍ More about me: Visit my [website]()
+- 🖇 Follow me on [LinkedIn](https://www.linkedin.com/in/vedantpatil01/)
+- 👯 Pronouns: He/Him
