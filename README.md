@@ -1,6 +1,6 @@
 ### Hey there :wave:
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Shumbul+Arifa)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Vedant+Patil)](https://git.io/typing-svg)
 
 ###### Glad to see you here :heart:
 
@@ -12,18 +12,9 @@
 </a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Subscribe+to+my+YouTube+Channel)](https://git.io/typing-svg)
-
-<a href="https://shumbularifa.com">
-  <kbd>
-  <img align="centre" alt="shumbularifa.com" width="22px" src="https://dz8fbjd9gwp2s.cloudfront.net/logos/644a0515e4b062410b4e9f3b.png?v=5" />
-</a>
  
- <a href="https://linktr.ee/shumbul">
-  <kbd>
-  <img align="centre" alt="shumbul's LinkTree" width="22px" height="22px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linktree-logo-icon.svg" />
-</a>
    
-<a href="https://linkedin.com/in/shumbul">
+<a href="https://www.linkedin.com/in/vedantpatil01/">
   <kbd>
   <img align="centre" alt="shumbul's LinkdeIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
@@ -33,10 +24,6 @@
   <img align="centre" alt="shumbul's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />
 </a>
 
-<a href="https://www.instagram.com/shumbularifa/">
-  <kbd>
-  <img align="centre" alt="shumbul's Instagram - personal blog" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />
-</a>
   
 <a href="https://twitter.com/ShumbulArifa">
 <kbd>
