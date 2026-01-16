@@ -6,9 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantp3&label=Views&color=blue&style=plastic" alt="Vednat" /> </p>
 
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Subscribe+to+my+YouTube+Channel)](https://git.io/typing-svg)
  
    
 <a href="https://www.linkedin.com/in/vedantpatil01/">
@@ -37,7 +34,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Let's+Connect)](https://git.io/typing-svg)
 
-- 🏢 I am a Software Engineer at Microsoft
+- 🏢 I am a Upcoming Software Engineer at Microsoft
 - 🏫 2026 B.Tech. graduate from Vellore Institute Of Technology, Vellore
 - 🙋‍ More about me: Visit my [website]()
 - 🖇 Follow me on [LinkedIn](https://www.linkedin.com/in/vedantpatil01/)
