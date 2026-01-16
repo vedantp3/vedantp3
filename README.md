@@ -4,12 +4,9 @@
 
 ###### Glad to see you here :heart:
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shumbul&label=Views&color=blue&style=plastic" alt="shumbul" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantp3&label=Views&color=blue&style=plastic" alt="shumbul" /> </p>
 
-<a href="http://yt.openinapp.co/shumbul">
-  <kbd>
-  <img align="centre" alt="YouTube shumbul" width="66px" src="https://download.logo.wine/logo/YouTube/YouTube-Logo.wine.png" />
-</a>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Subscribe+to+my+YouTube+Channel)](https://git.io/typing-svg)
  
