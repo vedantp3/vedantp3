@@ -28,7 +28,7 @@ I build **production-ready full-stack systems** and **intelligent AI pipelines**
 ---
 
 ## 🚀 About Me
-- 🎓 **B.Tech CSE (2026)** — Vellore Institute of Technology (CGPA: 8.47)
+- 🎓 **B.Tech CSE (2026)** — Vellore Institute of Technology (CGPA: 8.49)
 - 💼 Interned at **Fyaril AB, Sweden** (Frontend Engineer) & **Walstar Technologies** (AI/ML & Software Engineer)
 - 🛠 I build across two tracks — **full-stack web systems** and **LLM-powered AI pipelines**
 - ⚡ Comfortable taking a product from idea → code → deployment → production
